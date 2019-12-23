@@ -1,0 +1,8 @@
+person:
+  name: 兰新平
+  age: 25
+  map: {gege: lanxinming,wife: mamingxue}
+  list:
+    - 爸爸
+    - 妈妈
+    - 嫂子
